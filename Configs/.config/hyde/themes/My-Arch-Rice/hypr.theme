@@ -1,2 +1,5 @@
+[Theme]
 gtk="My-Arch-Rice"
-pkg = specific-gtk-theme-name
+icon=''
+cursor=''
+font=''
