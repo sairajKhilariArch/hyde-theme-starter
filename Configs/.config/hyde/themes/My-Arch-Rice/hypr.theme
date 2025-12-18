@@ -1,4 +1,2 @@
-[Theme]
-gtk="Wallbash-Gtk"
-icon="BeautyLine"
-cursor="Bibata-Modern-Ice"
+gtk="My-Arch-Rice"
+pkg = specific-gtk-theme-name
