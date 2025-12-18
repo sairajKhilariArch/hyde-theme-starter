@@ -1,7 +1,0 @@
-$GTK-THEME = Wallbash-Gtk
-$ICON-THEME = BeautyLine
-$CURSOR-THEME = Bibata-Modern-Ice
-$CURSOR-SIZE = 24
-
-# This tells HyDE to look in your theme folder for wallpapers
-$WALLPAPER-DIR = $HOME/.config/hyde/themes/My-Arch-Rice/wallpapers
