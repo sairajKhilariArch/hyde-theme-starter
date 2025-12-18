@@ -1,8 +1,6 @@
-# Visual assets for My-Arch-Rice
-$GTK-THEME = Wallbash-Gtk
+$GTK-THEME = 
 $ICON-THEME = BeautyLine
-$CURSOR-THEME = Bibata
-$CURSOR-SIZE = 24
+$CURSOR-THEME = Bibata-Modern-Ice
 $FONT = JetBrainsMono Nerd Font
-# Wallpaper directory
+$CURSOR-SIZE = 24
 $WALLPAPER-DIR = $HOME/.config/hyde/themes/My-Arch-Rice/wallpapers
