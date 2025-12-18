@@ -1,14 +1,6 @@
-# This must match a folder in /usr/share/themes or be Wallbash-Gtk
 $GTK-THEME = Wallbash-Gtk
-
-# This must match the folder name INSIDE your Icon_BeautyLine.tar.gz
 $ICON-THEME = BeautyLine
-
-# This must match the folder name INSIDE your Cursor_Bibata.tar.gz
 $CURSOR-THEME = Bibata-Modern-Ice
-
-# This must match the folder name INSIDE your Font_JetBrains.tar.gz
 $FONT = JetBrainsMono
-
 $CURSOR-SIZE = 24
 $WALLPAPER-DIR = $HOME/.config/hyde/themes/My-Arch-Rice/wallpapers
