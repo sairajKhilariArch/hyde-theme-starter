@@ -1,5 +1,5 @@
 cwd := `pwd`
-theme := "MyTheme"
+theme := "My-Arch-Rice"
 
 init:
     #!/usr/bin/env bash
