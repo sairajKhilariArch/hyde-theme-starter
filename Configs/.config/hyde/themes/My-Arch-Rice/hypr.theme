@@ -1,5 +1,4 @@
 [Theme]
-gtk=''
-icon=''
-cursor=''
-font=''
+gtk="Wallbash-Gtk"
+icon="BeautyLine"
+cursor="Bibata-Modern-Ice"
