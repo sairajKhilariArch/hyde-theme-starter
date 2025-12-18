@@ -1,6 +1,5 @@
-$GTK-THEME = Wallbash-Gtk
-$ICON-THEME = BeautyLine
-$CURSOR-THEME = Bibata-Modern-Ice
-$FONT = JetBrainsMono
-$CURSOR-SIZE = 24
-$WALLPAPER-DIR = $HOME/.config/hyde/themes/My-Arch-Rice/wallpapers
+[Theme]
+gtk=''
+icon=''
+cursor=''
+font=''
